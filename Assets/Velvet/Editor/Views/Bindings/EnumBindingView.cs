@@ -12,10 +12,8 @@ namespace Velvet.UI.Views {
 
         public EnumBindingView (VariableBinding variable)
         : base (variable) {
-            //this.values = System.Enum.GetNames (variable.target.GetType ());
-        }
 
-        //private string[] values;
+        }
 
     }
 

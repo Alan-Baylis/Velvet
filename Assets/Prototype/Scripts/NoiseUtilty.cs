@@ -49,8 +49,7 @@ public static class NoiseUtility {
                 max = total > max ? total : max;
             }
         }
-
-        // TODO: THIS IS SHIT!!!!??
+        
         // normalize the values and then elevate
         var intervall = max - min;
         for (var w = 0; w < width; ++w) {

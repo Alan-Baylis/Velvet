@@ -204,8 +204,7 @@ public class ChainHead : ChainLink, ISerializationCallbackReceiver {
             this.customVariables = new List<VariableBinding> ();
         }
     }
-
-    // TODO: Figure out if randomization info has to be stored seperatly to allow for proper serialization
+    
     private List<IVariableRandomization> randomizations;
 
     [HideInInspector]
