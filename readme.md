@@ -1,6 +1,6 @@
 # Velvet
 
-A module procedural content generation plugin for Unity. Developed as part of the bachelor thesis *Procedural Generation of Content in Video Games*.
+A module procedural content generation plugin for Unity. Developed as part of [my bachelor thesis](thesis.pdf) *Procedural Generation of Content in Video Games*.
 
 ## Prototype
 
