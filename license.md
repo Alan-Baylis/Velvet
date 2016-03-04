@@ -4,26 +4,32 @@ Copyright (c) 2016 Sven Freiberg
 
 All rights reserved.
 
-This software can not be used under the following conditions:
+Redistribution and use in source and binary forms, with or without modification,
+are permitted provided that the following conditions are met:
 
-	Use in derogatory, defamatory or abusive material (in any form,
-	printed or virtual).
+	Redistributions of source code must retain the above copyright notice, this
+	list of conditions and the following disclaimer.
 
-	Use by individuals or companies involved in activities to harm,
-	injure or oppress living creatures (including but not limited to
-	the fur industry or meat industry).
+	This software can not be used under the following conditions:
 
-	Use by individuals or companies involved in military activities,
-	or production of military goods.
+		Use in derogatory, defamatory or abusive material (in any form,
+		printed or virtual).
 
-	Use by missionaries, individuals or institutions of any creed or faith
-	for the purpose of converting others to their creed or faith.
+		Use by individuals or companies involved in activities to harm,
+		injure or oppress living creatures (including but not limited to
+		the fur industry or meat industry).
 
-	Use to promote or support terror, hate, intolerance, sexism or racism.
+		Use by individuals or companies involved in military activities,
+		or production of military goods.
 
-Redistributions in binary form must reproduce the above copyright notice,
-the list of conditions and the following disclaimer in the documentation
-and/or other materials provided with the distribution.
+		Use by missionaries, individuals or institutions of any creed or faith
+		for the purpose of converting others to their creed or faith.
+
+		Use to promote or support terror, hate, intolerance, sexism or racism.
+
+	Redistributions in binary form must reproduce the above copyright notice,
+	this list of conditions and the following disclaimer in the documentation
+	and/or other materials provided with the distribution.
 
 THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS" AND
 ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED
